@@ -14,5 +14,5 @@ streamlit run dashboard.py
 
 ## Link streamlit app
 ```
-https://bicycle-dashboard-dicoding.streamlit.app
+https://submission-pcyek6meaxhgycgbtxdwnd.streamlit.app/
 ```
