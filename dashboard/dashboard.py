@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-main_data = pd.read_csv('C:\\Users\\HP\\Desktop\\Submission\\data\\main_data.csv')
+main_data = pd.read_csv('dashboard/main_data.csv')
 main_data['dteday'] = pd.to_datetime(main_data['dteday'])
 st.title('Dashboard Penggunaan Sepeda - Bike Sharing Dataset')
 st.subheader('Filter Data Berdasarkan Periode')
